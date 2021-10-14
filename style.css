@@ -4,5 +4,10 @@ html {
 
 body {
     margin: 0;
-    min-height: 100vh;
+    background: linear-gradient(180deg, #ffffff, #f3f8f7, 49.91%, #fff9f5, 94.19%);
+}
+
+.wrapper {
+    position: relative;
+    width: 1440px;
 }
