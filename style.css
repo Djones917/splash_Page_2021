@@ -18,3 +18,15 @@ body {
     margin: auto;
     background: dodgerblue;
 }
+
+.title {
+    position: absolute;  
+    height: 135px;
+    width: 458px;
+    left: 221px;
+    top: 236px;    
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 67px;      
+}
