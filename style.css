@@ -16,8 +16,7 @@ body {
     position: relative;
     width: 1440px;
     min-height: 100vh;
-    margin: auto;
-    background: dodgerblue;
+    margin: auto;    
 }
 
 .title {
@@ -30,4 +29,16 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 67px;      
+}
+
+.text {
+    position: absolute;
+    width: 394px;
+    height: 96px;
+    left: 221px;
+    top: 403px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
 }
