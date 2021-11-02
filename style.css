@@ -19,6 +19,14 @@ body {
     margin: auto;    
 }
 
+.brand-img {
+    position: absolute;
+    height: 47.64px;
+    width: 193px;
+    left: 221px;
+    top: 50.25px;    
+}
+
 .title {
     position: absolute;  
     height: 135px;
@@ -43,10 +51,3 @@ body {
     line-height: 32px;
 }
 
-.brand-img {
-    height: 47.63773727416992px;
-    width: 193px;
-    left: 221px;
-    top: 50.2525634765625px;
-    border-radius: 0px;
-}
