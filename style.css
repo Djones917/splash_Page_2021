@@ -51,10 +51,15 @@ body {
     line-height: 32px;
 }
 
-app-store-btn {
+.app-store-btn {
     position: absolute;
     height: 46.28px;
     width: 138.44px;
     left: 221px;
     top: 531px;    
+}
+
+.app-store-btn img {
+    height: 46.28px;
+    width: 138.44px;
 }
