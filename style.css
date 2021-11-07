@@ -63,3 +63,16 @@ body {
     height: 46.28px;
     width: 138.44px;
 }
+
+.google-play-btn {
+    position: absolute;
+    height: 46.28px;
+    width: 156.19px;
+    left: 381.81px;
+    top: 531px;   
+}
+
+.google-play-btn img {
+    height: 46.28px;
+    width: 156.19px;
+}
