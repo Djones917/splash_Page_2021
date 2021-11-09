@@ -88,3 +88,44 @@ body {
 .main-image-container img {
     height: 411.15px;
 }
+
+.cart-img {
+    position: absolute;
+    height: 444.0000000000001px;
+    width: 224.00000000000006px;
+    left: 221px;
+    top: 1157px;
+    border-radius: 0px;
+}
+
+.order-img {
+    height: 444.0000000000001px;
+    width: 224.00000000000006px;
+    left: 479px;
+    top: 913px;
+    border-radius: 0px;
+}
+
+.profile-img {
+    height: 444.0000000000001px;
+    width: 224.00000000000006px;
+    left: 737.0001220703125px;
+    top: 686px;
+    border-radius: 0px;
+}
+
+.product-img {
+    height: 444.0000000000001px;
+    width: 224.00000000000006px;
+    left: 737px;
+    top: 1157px;
+    border-radius: 0px;
+}
+
+.home-img {
+    height: 444.0000000000001px;
+    width: 224.00000000000006px;
+    left: 995px;
+    top: 908px;
+    border-radius: 0px;
+}
